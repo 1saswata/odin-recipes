@@ -1,0 +1,22 @@
+h4 {
+    color: blue;
+    font-size: 24px;
+}
+
+h3 {
+    color: brown;
+    font-size: 32px;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-size: 36px;
+}
+
+li {
+    font-family: sans-serif;
+}
+
+* {
+    background-color: bisque;
+}
