@@ -19,4 +19,5 @@ li {
 
 * {
     background-color: rgb(254, 234, 209);
+    box-sizing: border-box;
 }
