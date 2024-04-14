@@ -25,6 +25,12 @@ li {
     font-family: sans-serif;
 }
 
-* {
-    background-color: rgb(254, 234, 209);
+body {
+    background-color: rgb(79, 49, 25);
+}
+.main {
+    /*border: 2px solid black;*/
+    margin: 5px;
+    background-color: burlywood;
+    padding: 10px;
 }
